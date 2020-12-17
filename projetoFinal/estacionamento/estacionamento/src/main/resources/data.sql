@@ -1,0 +1,1 @@
+--INSERT INTO CLIENTE(marcadocarro, modelodocarro, placadocarro) VALUES('', '', '');
